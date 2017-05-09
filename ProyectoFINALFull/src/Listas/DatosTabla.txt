@@ -1,0 +1,1 @@
+javax.swing.ImageIcon@5cac93fc,qrtyui,ñlkjhg,18,Actor,123456,Viudo_a,Hombre,asdfghj@gmail.com,2345678,calle23
